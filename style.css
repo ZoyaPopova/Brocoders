@@ -1,0 +1,28 @@
+table.main {
+
+    width: 400px; /* Ширина таблицы*/
+    height: 400px;
+    background: white; /* Цвет фона таблицы */
+    border: 2px solid #48AAE6;
+    border-spacing: 4px; /* Расстояние между ячейками */
+
+}
+    td, th {
+    background: #48AAE6; /* Цвет фона ячеек */
+    padding: 40px; /* Поля вокруг текста */
+
+}
+
+
+#butt {
+    border:5px solid white;
+    background: #F3A500;
+    width:102px;
+    height:102px;
+    color: white;
+    font-size: 24pt;
+
+}
+
+
+
